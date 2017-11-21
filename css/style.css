@@ -1,6 +1,6 @@
 
  .navbar {    
-   background: black;  
+   background: transparent;  
    text-transform: uppercase;
    font-weight: 700;   
    border: none;    
@@ -8,6 +8,7 @@
  .navbar .navbar-brand {
    color: white;    
  }
+ 
  .navbar .navbar-brand:hover{
    color: white;
  }  
