@@ -10,7 +10,7 @@
  }
  
  .navbar .navbar-brand:hover{
-   color: white;
+   color: black;
  }  
 
  .navbar .navbar-nav li a {
@@ -26,8 +26,10 @@
  }   
 
  header {
-   background: gray;
+   background-image: url ("https://image.freepik.com/free-vector/gray-background-with-wood-texture_1048-4757.jpg");
    color: white;
+   
+   
  }   
  header img {    
    display: block;
@@ -68,6 +70,8 @@
      transition: all .3s ease-in-out;    
      margin-top: 15px;   
  }   
+ 
+
            
  #portfolio .portfolio-item  {   
    display: block;   
