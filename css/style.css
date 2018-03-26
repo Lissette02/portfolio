@@ -3,10 +3,11 @@
    background: transparent;  
    text-transform: uppercase;
    font-weight: 700;   
-   border: none;    
+   border: none;  
+   color:black;
  }
  .navbar .navbar-brand {
-   color: white;    
+   color: black;    
  }
  
  .navbar .navbar-brand:hover{
@@ -26,8 +27,7 @@
  }   
 
  header {
-   background-image: url ("https://image.freepik.com/free-vector/gray-background-with-wood-texture_1048-4757.jpg");
-   color: white;
+   color: black;
    
    
  }   
@@ -125,3 +125,7 @@
  .btn-social i {
     line-height: 45px;
  }
+
+#maincontent{
+ width:100%;
+}
