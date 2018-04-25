@@ -4,30 +4,32 @@
    text-transform: uppercase;
    font-weight: 700;   
    border: none;  
-   color:black;
+   color:white;
  }
  .navbar .navbar-brand {
-   color: black;    
+   color: white;    
  }
  
  .navbar .navbar-brand:hover{
-   color: black;
+   color: pink;
  }  
 
  .navbar .navbar-nav li a {
-   color: white;
+   color: pink;
  }
  .navbar .navbar-nav li a:hover {
    color: gray;
  }
  
  .navbar-toggle{
-   color: #fff;
-   border: 2px solid #fff;
+   color: pink;
+   border: 2px solid pink;
  }   
 
  header {
-   color: black;
+   color: pink;
+   font-family: 'Josefin Slab', serif; 
+   
    
    
  }   
@@ -59,7 +61,7 @@
  }   
  section.about {   
    background: gray;    
-   color: white;   
+   color: pink;   
  }   
      
  section.about .btn-outline {    
@@ -128,4 +130,14 @@
 
 #maincontent{
  width:100%;
+}
+
+.pro{
+float:left;
+
+}
+
+#pig{
+ height:10px;
+ width:10px;
 }
