@@ -29,10 +29,8 @@
  header {
    color: pink;
    font-family: 'Josefin Slab', serif; 
-   
-   
-   
  }   
+ 
  header img {    
    display: block;
    margin: 0 auto 20px;
@@ -60,7 +58,7 @@
    font-size: 3em;   
  }   
  section.about {   
-   background: gray;    
+   background: #202021;    
    color: pink;   
  }   
      
